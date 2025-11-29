@@ -1,10 +1,12 @@
 
-# AI Value Auditing System - Deployment Guide
+# Human-AI Alignment Course (CSCI-SHU 205) - Building a Human-AI Interactive System 
+
+<!-- AI Value Auditing System - Deployment Guide -->
 
 
-This is a project template used for INFO 492 course at the University of Washington - Spring 2025 quarter.
+This is a project template used for the (CSCI-SHU 205) Human-AI Alignment course at NYU Shanghai - Fall 2025 semester.
 
-This guide explains how to set up and run the AI Value Auditing System with both frontend and backend components.
+This guide explains how to set up and run the human-AI interactive Value Auditing System with both frontend and backend components.
 
 
 ## System Architecture
