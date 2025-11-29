@@ -83,7 +83,7 @@ npm start
 This will start the React development server at http://localhost:3000.
 
 
-### 2.2 Production Deployment
+### 2.2 Production Deployment (Optional)
 
 For production deployment, you can:
 
